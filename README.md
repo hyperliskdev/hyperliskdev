@@ -3,7 +3,7 @@
 <div align="center">
   
 # 💫 About Me:
-🔭 I’m currently working on a private contracted project for Indiva.<br>👯 I’m looking to collaborate on JavaScript, Rust or Java projects.<br>🤝 I’m looking for help with ExcelJS and Javascript.<br>🌱 I’m currently going to college for Cybersecurity.<br>💬 Ask me about anything Forensics!<br>⚡ Fun fact: I love playing guitar and learning about complex physics/math!
+🔭 I’m currently looking for work!<br>👯 I’m looking to collaborate on JavaScript, Rust or Java projects.<br>🤝 I’m looking for help with ExcelJS and Javascript.<br>🌱 I’m currently going to college for Cybersecurity.<br>💬 Ask me about anything Forensics!<br>⚡ Fun fact: I love playing guitar and learning about complex physics/math!
 
 
 ## 🌐 Socials:
