@@ -1,6 +1,4 @@
 
-
-<div align="center">
   
 # 💫 About Me:
 👯 I’m looking to collaborate on JavaScript, Rust or Java projects.<br>💬 Ask me about anything Forensics!<br>⚡ Fun fact: I love playing guitar and learning about complex physics/math!
@@ -23,4 +21,3 @@
 [![](https://visitcount.itsvg.in/api?id=hyperliskdev&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
