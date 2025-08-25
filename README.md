@@ -3,7 +3,7 @@
 <div align="center">
   
 # 💫 About Me:
-👯 I’m looking to collaborate on JavaScript, Rust or Java projects.<br>🤝 I’m looking for help with ExcelJS and Javascript.<br>💬 Ask me about anything Forensics!<br>⚡ Fun fact: I love playing guitar and learning about complex physics/math!
+👯 I’m looking to collaborate on JavaScript, Rust or Java projects.<br>💬 Ask me about anything Forensics!<br>⚡ Fun fact: I love playing guitar and learning about complex physics/math!
 
 
 ## 🌐 Socials:
